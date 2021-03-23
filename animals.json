@@ -1,36 +1,36 @@
 [
     {
-        "animalName":"Paddy",
-        "animalPic":"images/Paddy.jpg",
+        "animalName":"Falcor",
+        "animalPic":"images/falcor.jpg",
         "animalAge":"8",
         "animalType":"dog",
-        "animalBreed":"Cross Breed"
+        "animalBreed":"Cross Breed Collie"
     },
     {
-        "animalName":"Jem",
-        "animalPic":"images/Jem.jpg",
-        "animalAge":"5",
+        "animalName":"Jemima",
+        "animalPic":"images/jemima.jpg",
+        "animalAge":"6",
         "animalType":"dog",
         "animalBreed":"Cross Breed Sproodle"
     },
     {
-        "animalName":"Alfie",
-        "animalPic":"images/Alfie.jpg",
-        "animalAge":"13",
+        "animalName":"Garnet",
+        "animalPic":"images/garnet.jpg",
+        "animalAge":"15",
         "animalType":"cat",
         "animalBreed":"tabby moggy"
     },
     {
-        "animalName":"Jack",
-        "animalPic":"images/Jack.jpg",
-        "animalAge":"10",
+        "animalName":"Tabby",
+        "animalPic":"images/tabby.jpg",
+        "animalAge":"11",
         "animalType":"cat",
         "animalBreed":"tabby moggy"
     },
     {
-        "animalName":"Jacob",
-        "animalPic":"images/Jacob.jpg",
-        "animalAge":"10",
+        "animalName":"Moonlight",
+        "animalPic":"images/moonlight.jpg",
+        "animalAge":"11",
         "animalType":"cat",
         "animalBreed":"Black and white moggy"
     }
