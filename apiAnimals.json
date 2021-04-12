@@ -1,0 +1,38 @@
+[
+    {
+        "animalName":"Falcor",
+        "animalPic":"images/falcor.jpg",
+        "animalAge":"8",
+        "animalType":"dog",
+        "animalBreed":"Cross Breed Collie"
+    },
+    {
+        "animalName":"Jemima",
+        "animalPic":"images/jemima.jpg",
+        "animalAge":"6",
+        "animalType":"dog",
+        "animalBreed":"Cross Breed Sproodle"
+    },
+    {
+        "animalName":"Garnet",
+        "animalPic":"images/garnet.jpg",
+        "animalAge":"15",
+        "animalType":"cat",
+        "animalBreed":"tabby moggy"
+    },
+    {
+        "animalName":"Tabby",
+        "animalPic":"images/tabby.jpg",
+        "animalAge":"11",
+        "animalType":"cat",
+        "animalBreed":"tabby moggy"
+    },
+    {
+        "animalName":"Moonlight",
+        "animalPic":"images/moonlight.jpg",
+        "animalAge":"11",
+        "animalType":"cat",
+        "animalBreed":"Black and white moggy"
+    }
+]
+© 2021 GitHub, Inc.
