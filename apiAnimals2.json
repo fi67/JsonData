@@ -1,37 +1,35 @@
-[
-    {
-        "animalName":"Falcor2",
-        "animalPic":"https://fi67.github.io/JsonData/images/falcor.jpg",
-        "animalAge":"11",
-        "animalType":"dog",
-        "animalBreed":"Cute Doggie"
-    },
-    {
-        "animalName":"Jemima",
-        "animalPic":"https://fi67.github.io/JsonData/images/jemima.jpg",
-        "animalAge":"6",
-        "animalType":"dog",
-        "animalBreed":"Cross Breed Sproodle"
-    },
-    {
-        "animalName":"Garnet",
-        "animalPic":"https://fi67.github.io/JsonData/images/garnet.jpg",
-        "animalAge":"15",
-        "animalType":"cat",
-        "animalBreed":"tabby moggy"
-    },
-    {
-        "animalName":"Tabby",
-        "animalPic":"https://fi67.github.io/JsonData/images/tabby.jpg",
-        "animalAge":"11",
-        "animalType":"cat",
-        "animalBreed":"tabby moggy"
-    },
-    {
-        "animalName":"Moonlight",
-        "animalPic":"https://fi67.github.io/JsonData/images/moonlight.jpg",
-        "animalAge":"11",
-        "animalType":"cat",
-        "animalBreed":"Black and white moggy"
-    }
-]
+{
+  "articles":[
+     {
+        "title":"Falcor",
+        "description":"Fluffy teddy bear monster aged 11",
+        "url":"http://www.bbc.co.uk",
+        "urlToImage":"https://fi67.github.io/JsonData/images/falcor.jpg"
+     },
+     {
+        "title":"Jemima",
+        "description":"Bouncy mad thing aged 8 who knows what breed",
+        "url":"http://www.bbc.co.uk",
+        "urlToImage":"https://fi67.github.io/JsonData/images/jemima.jpg"
+     },
+     {
+        "title":"Garnet",
+        "description":"i haven't decided whether or not i wanna go out. I'm old and the boss",
+        "url":"http://www.bbc.co.uk",
+        "urlToImage":"https://fi67.github.io/JsonData/images/garnet.jpg"
+     },
+     {
+        "title":"Tabby",
+        "description":"Annoy owner by meowing repeatedly and sitting on keyboard. Older than the dogs and so much different to my brother",
+        "url":"http://www.bbc.co.uk",
+        "urlToImage":"https://fi67.github.io/JsonData/images/tabby.jpg"
+     },
+     {
+        "title":"Moonlight",
+        "description":"Sleeps all day, runs around all night. Love my brother til he hits me with his paw",
+        "url":"http://www.bbc.co.uk",
+        "urlToImage":"https://fi67.github.io/JsonData/images/moonlight.jpg"
+     }
+
+  ]
+}
