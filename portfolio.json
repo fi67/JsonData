@@ -1,4 +1,6 @@
 {
+  "articles":[
+{
       title: 'Falcors page',
       imgUrl: 'https://fi67.github.io/JsonData/images/falcor.jpg',
       stack: ['HTML', 'CSS', 'JavaScript'],
@@ -16,3 +18,5 @@
       stack: ['Python', 'C#', 'AI'],
       link: 'http://www.example.com/garnet',
    }
+        ]
+}
