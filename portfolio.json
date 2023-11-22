@@ -13,10 +13,10 @@
       "link": "http://www.example.com/jem"
    },
    {
-      "title": "Jewels By Garnet",
-    "imgUrl":"https://fi67.github.io/JsonData/images/garnet.jpg",
+      "title": "Jewels By Moonlight",
+    "imgUrl":"https://fi67.github.io/JsonData/images/moonlight.jpg",
       "stack": ["Python", "C#", "AI"],
-     "link" : "http://www.example.com/garnet"
+     "link" : "http://www.example.com/moonlight"
    }
         ]
 }
